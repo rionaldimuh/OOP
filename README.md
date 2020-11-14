@@ -1,2 +1,1 @@
-#gamedev1 = oop biasa
-#Gamedev2 = Implementasi
+gamedev1 = oop biasa & Gamedev2 = Implementasi
